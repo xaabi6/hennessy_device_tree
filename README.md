@@ -12,7 +12,7 @@
   - pocarropa (for providing me this sources and a good tutorial)
   - rscc
   - supersonicninja (for updating the patches)
-  - Syl191 for the patches 
+  - Syl191 (for the patches) 
   - The CyanogenMod Team
   - Visi0nary
   - xen0n 
